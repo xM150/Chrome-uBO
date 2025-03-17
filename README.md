@@ -1,5 +1,5 @@
 # Chrome-uBO
-# Need to be updated
+# Need to be updated - still valid till today
 Reg file without DNS over HTTPS:
 
 Windows Registry Editor Version 5.00
